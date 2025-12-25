@@ -1,40 +1,6 @@
 # CodeTech Website
 
-A clean, functional, and modern website featuring an integrated chatbot.  
-This project focuses on simple structure, smooth UI, and practical front-end development.
+This repository is created for my personal learning.
 
----
-
-## 🚀 Features
-
-- Clean and minimal UI
-- Responsive layout
-- Integrated chatbot
-- Smooth hover effects and animations
-- Beginner-friendly code structure
-
----
-
-## 🛠️ Built With
-
-- HTML
-- CSS
-- JavaScript
-
----
-
-## 📁 Project Structure
-
-codetech-website/
-│
-├── index.html
-├── style.css
-├── script.js
-└── assets/
-└── icons/
-
----
-
-## 🌐 Live Demo
-
-The website is deployed using GitHub Pages:
+The code is currently being explored and understood step by step.  
+I am uploading this project to track my progress and revisit concepts as I learn them.
