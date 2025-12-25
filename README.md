@@ -25,3 +25,16 @@ This project focuses on simple structure, smooth UI, and practical front-end dev
 
 ## 📁 Project Structure
 
+codetech-website/
+│
+├── index.html
+├── style.css
+├── script.js
+└── assets/
+└── icons/
+
+---
+
+## 🌐 Live Demo
+
+The website is deployed using GitHub Pages:
